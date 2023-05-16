@@ -1,0 +1,19 @@
+id: ID0203408
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:32:19.664206
+last_modified: 2023-01-04 11:32:19.664211
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  A330:
+    title: 'The Wish-Fulfilling Tree: The Life Story of the Master of Uḍḍiyāna as
+      found in Padmasambhava’s Sevenfold Cycle of Profundity'
+    base_file: A330.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
